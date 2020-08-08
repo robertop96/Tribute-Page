@@ -1,8 +1,6 @@
 * {
-    box-sizing: border-box;
-    
+    box-sizing: border-box;  
 }
-
 #main {
     background-color: rgba(128, 128, 128, 0.164);
     color: rgb(63, 62, 62);
@@ -10,7 +8,6 @@
     padding: 15px;
     border-radius: 10px;;
 }
-
 #title {
     color:blue;
     font-size: 1.3em;
@@ -22,18 +19,15 @@
     padding: 10px;
     margin: 0px;
 }
-
 #image {
     width:100%;
     height:auto;
     max-width: 1000px;
 }
-
 #img-caption {
     padding: 20px 0px;
     font-weight: 700;
 }
-
 #tribute-info {
     
 }
