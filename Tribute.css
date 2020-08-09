@@ -27,8 +27,11 @@ h1, h2, h3 {
     background-color: white;
     padding: 10px;
     margin: 0px;
+    
 }
 #image {
+    display:block;
+    margin: 0px auto;
     width:100%;
     height:auto;
     max-width: 62.5em;
